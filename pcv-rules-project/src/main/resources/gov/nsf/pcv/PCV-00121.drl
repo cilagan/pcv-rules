@@ -30,7 +30,7 @@ when
                
 then
 
-    ProposalFinding $proposalFinding = new ProposalFinding();
+                ProposalFinding $proposalFinding = new ProposalFinding();
                $proposalFinding.setFindingCode("PCV-00121");
                $proposalFinding.setFindingLevel(FindingLevel.ERROR);
                $proposalFinding.setMessage("No Project Description - A Project Description has not been provided and is required for RAPID, EAGER, Conference, Equipment, International Travel, Research and Ideas Lab types of Funding Mechanisms. To correct this error, please upload a 'Project Description' for this proposal. If submitting a separately submitted collaborative proposal, only the lead institution is required to provide the Project Description.");
