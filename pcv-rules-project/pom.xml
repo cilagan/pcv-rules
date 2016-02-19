@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gov.nsf.pcv</groupId>
   <artifactId>pcv-rules-project</artifactId>
-  <version>Final</version>
+  <version>DEV-FINAL</version>
   <name>pcv-rules-project</name>
   <dependencies>
     <dependency>
